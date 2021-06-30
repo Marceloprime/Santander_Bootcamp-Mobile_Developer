@@ -1,0 +1,4 @@
+Linux - Ubuntu 20.04:
+
+$ kotlinc <nome do programa>.kt -include-runtime -d <nome do programa>.jar
+$ java -jar <nome do programa>.jar
